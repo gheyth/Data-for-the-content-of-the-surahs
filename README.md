@@ -1,0 +1,1 @@
+src: https://e-quran.com/index.html
